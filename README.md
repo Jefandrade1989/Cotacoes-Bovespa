@@ -1,1 +1,1 @@
-# Cotacoes-Bovespa
+# Treinando fundamentos python
